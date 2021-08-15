@@ -1,0 +1,22 @@
+{
+  "name": "reactionbot-lambdas",
+  "version": "1.0.0",
+  "description": "Lambda functions for reactionbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanewhitlock/reactionbot-lambdas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanewhitlock/reactionbot-lambdas/issues"
+  },
+  "homepage": "https://github.com/shanewhitlock/reactionbot-lambdas#readme",
+  "dependencies": {
+    "@slack/web-api": "^6.3.0"
+  }
+}
